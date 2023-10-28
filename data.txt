@@ -1,0 +1,57 @@
+[
+  {
+    "sentence": "That's what I do: I drink and I know things.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "Never forget what you are. The rest of the world will not. Wear it like armor, and it can never be used to hurt you.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "A Lannister always pays his debts.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  },
+  {
+    "sentence": "He was no dragon. Fire cannot kill a dragon.",
+    "character": {
+      "name": "Daenerys Targaryen",
+      "slug": "daenerys",
+      "house": {
+        "name": "House Targaryen of King's Landing",
+        "slug": "targaryen"
+      }
+    }
+  },
+  {
+    "sentence": "A ruler who kills those devoted to her is not a ruler who inspires devotion.",
+    "character": {
+      "name": "Tyrion Lannister",
+      "slug": "tyrion",
+      "house": {
+        "name": "House Lannister of Casterly Rock",
+        "slug": "lannister"
+      }
+    }
+  }
+]
